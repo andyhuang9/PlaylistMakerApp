@@ -1,0 +1,16 @@
+{
+    "playlists": [
+        {
+            "songs": [],
+            "name": "1"
+        },
+        {
+            "songs": [{
+                "artist": "rrr",
+                "title": "song"
+            }],
+            "name": "2"
+        }
+    ],
+    "user": "qwerty"
+}

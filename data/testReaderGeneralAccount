@@ -1,0 +1,27 @@
+{
+    "playlists": [
+        {
+            "name": "Jazz",
+            "songs": [
+                {
+                "title": "Blue in Green",
+                "artist": "Miles Davis"
+                },
+                {
+                "title": "Summertime",
+                "artist": "Chet Baker"
+        }
+            ]
+      },
+      {
+          "name": "Jams",
+          "songs": [
+            {
+                "title": "Mmmh",
+                "artist": "Kai"
+            }
+        ]
+      }
+  ],
+  "user": "My User"
+}
