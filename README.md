@@ -1,4 +1,4 @@
-# My Personal Project
+# Playlist Maker
 
 ## By Andy Huang
 
@@ -22,8 +22,5 @@ music is a large part of my life, and I wanted to create an application that rel
 - As a user, I want to be able to save my account to file
 - As a user, I want to be able to load my account from file
 
-*Phase 4*: *Task 2*
+*Phase 4*: 
 - I have chosen to design my Song class as a robust class
-
-*Phase 4*: *Task 3*
-- I would not refactor to improve my design because I believe my current class design adheres to the single responsibility and coupling rules well
